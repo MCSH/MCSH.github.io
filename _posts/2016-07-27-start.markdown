@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "A Fresh Start"
+date:   2016-07-27 11:36:05 +0430
+categories: personal blog
+---
+This is somewhat like a place holder, for later when I actually start writing stuff. I finally decided to switch from wordpress, I wasn't using my site that much and I have no intention of loosing these so github feels much safer.
+
+
+{% highlight python %}
+if __name__ == "__main__":
+    print "Hello World!"
+{% endhighlight %}
