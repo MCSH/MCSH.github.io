@@ -1,0 +1,43 @@
+---
+layout: post
+title:  "Our workflow, using git for a huge project"
+date:   2016-07-30 11:36:05 +0430
+categories: git workflow
+---
+In this post I want to write about how *my team's* workflow works.
+
+Just to see how big the project is...:
+
+We have 4 different components:
+
+* A webapp
+* A backend serer (in charge of compiling user inputs)
+* A mobile app
+* Another backend to server database and syncing servers and handling users etc.
+
+It takes about 10 minutes to compile each componnent and deploying it on a virtual machine (or a test server) takes about 7 to 8 minutes. We have to test it on different browsers and different Operating Systems for every feature (and we have a lot of them!). So basically, the workflow matters. 
+
+## Types of tests
+Before I begin, let's make something clear. Testing matters, and it matters more than developing new features. Here are the types of tests we do:
+
+* New ones: As in tests for new features we have added.
+* Every possible thing: As in tests we do before releasing a new version, or after major changes.
+* Automated: Unit tess and other stuff, you know.
+
+## Branches
+We have 3 different types of branches:
+
+* Master: The branch currently deployed on our production server and the one that our users use.
+* Develop: The branch that if proven healthy and bug free will be merged into Master.
+* Featues: *This is not name of **A branch** but for each **feature** or **bugfix** we have a different one of these*
+
+So, we have just released a new version and everything is in our **Master** branch and let's assume we don't have any other branches, so what do we do now?
+
+1. create the branch **develop** right from master, everything must be the same.
+2. Each developer (or each team, depending on how you do this in your company) pick a 
+
+
+{% highlight python %}
+if __name__ == "__main__":
+    print "Hello World!"
+{% endhighlight %}
