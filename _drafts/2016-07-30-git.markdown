@@ -34,8 +34,12 @@ We have 3 different types of branches:
 So, we have just released a new version and everything is in our **Master** branch and let's assume we don't have any other branches, so what do we do now?
 
 1. create the branch **develop** right from master, everything must be the same.
-2. Each developer (or each team, depending on how you do this in your company) pick a 
+2. Each developer (or each team, depending on how you do this in your company) picks an item in TODO file, creates a branch from the current develop branch and name it something related to the TODO item (example: FileMenu, FIX1423, etc).
+3. After it's done and tested, move on to the next item.
+4. Project manager decides which features should be in the next release, they will be added to develop branch.
+5. Before releasing, test the develop branch and then merge it to master.
 
+After (or even during) developing features, developers will test that it works. 
 
 {% highlight python %}
 if __name__ == "__main__":
