@@ -13,15 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MCSH | Sajjad Heydari's personal blog
+title: سجاد
 email: MCSHemail@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Hey,
-
-  my name is Sajjad Heydari, I'm a developer, a cs student, a geek,
-  a secret elephent hunter and part of a secret group called humans.
-
-  This is my personal blog, welcome!
+  سلام!
+  من سجاد هستم. دانشجوی علوم کامپیوتر،‌ یک گیک. به وبلاگ شخصی من خوش آمدید!
 baseurl: "/fa" # the subpath of your site, e.g. /blog
 url: "http://MCSH.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Sajjad_Heydari

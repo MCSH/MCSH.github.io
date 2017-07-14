@@ -26,6 +26,8 @@ baseurl: "/en" # the subpath of your site, e.g. /blog
 url: "http://MCSH.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Sajjad_Heydari
 github_username:  MCSH
+timezone: Asia/Tehran
+permalink: pretty
 
 # Build settings
 markdown: kramdown
