@@ -1,5 +1,5 @@
 ---
-title: chatbot iot big data and twitter a hope
+title: chatbot iot and twitter a hope
 date: 2017-07-17 16:28:07 +04:30
 categories: chatbot idea iot
 ---
