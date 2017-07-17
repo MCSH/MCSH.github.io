@@ -1,13 +1,6 @@
 #!/bin/bash
 
-NAME=en/_drafts/$(date -I)-$1.markdown
-NAME2=fa/_drafts/$(date -I)-$1.markdown
-if [ ! -z $2 ]
-    then
-        if [ $2 = "fa" ]; then
-            NAME=$NAME2
-        fi
-fi
+NAME=_drafts/$(date -I)-$1.markdown
 touch $NAME
 
 p(){
