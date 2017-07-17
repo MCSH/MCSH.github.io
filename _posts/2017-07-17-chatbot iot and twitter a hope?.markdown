@@ -1,5 +1,5 @@
 ---
-title: Chatbot iot and twitter a hope
+title: Chatbot iot and twitter, a hope?
 date: 2017-07-17 16:28:07 +04:30
 categories: chatbot idea iot
 comment: https://github.com/MCSH/MCSH.github.io/issues/1
