@@ -2,8 +2,6 @@
 title: chatbot iot big data and twitter a hope
 date: 2017-07-17 16:28:07 +04:30
 categories: chatbot, idea, big data, iot
-comments: 
-
 ----
 
 We are in 2k17 summer and I think it's safe to say our computers run us. I go to bed the second *sleep as android* tells me it's time to sleep; I let S health decide if I need more workout; Inbox by Gmail categorizes my emails and even snoozes the one not so important for later while Waze literary orders me to go left or right, and that's just from my phone.
