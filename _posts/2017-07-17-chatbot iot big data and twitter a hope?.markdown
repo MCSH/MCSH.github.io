@@ -12,28 +12,28 @@ This could be, and to an extent, is a reality. The only problem? A unified stand
 
 Here is a suggestion. How about a twitter like environment for our devices? A place where every device you own can listen to and respond to. Here is an example:
 
-7:30 - **Sleep as Android**: Alarm going off in 30 minutes.
-*Coffe maker* brews coffee.
-8:00 - **Sleep as Android**: Woke up.
-8:01 - **Dorway sensors**: Someone came into the living room.
-*Entertainment device* plays waking up playlist.
-8:01 - **Coffe maker**: Someone poured coffee.
+* 7:30 - **Sleep as Android**: Alarm going off in 30 minutes.
+* *Coffe maker* brews coffee.
+* 8:00 - **Sleep as Android**: Woke up.
+* 8:01 - **Dorway sensors**: Someone came into the living room.
+* *Entertainment device* plays waking up playlist.
+* 8:01 - **Coffe maker**: Someone poured coffee.
 
 *Some time later*
-8:20 - **Car Engine**: The engine started.
-8:20 - **Tier #1**: Pressure: 33 PSI.
-8:20 - **Tier #2**: Pressure: 32 PSI.
-8:30 - **Tier #3**: Pressure: 34 PSI.
-8:30 - **Tier E4**: Pressure: 28 PSI.
-8:31 - **Car Voice Assistance**: Asking the owner to see a mechanic.
-8:32 - **Car voice Assistance**: Event confirmed to see mechanic today evening.
-8:33 - **Calendar**: Added Event to see mechanic today evening.
+* 8:20 - **Car Engine**: The engine started.
+* 8:20 - **Tier #1**: Pressure: 33 PSI.
+* 8:20 - **Tier #2**: Pressure: 32 PSI.
+* 8:30 - **Tier #3**: Pressure: 34 PSI.
+* 8:30 - **Tier E4**: Pressure: 28 PSI.
+* 8:31 - **Car Voice Assistance**: Asking the owner to see a mechanic.
+* 8:32 - **Car voice Assistance**: Event confirmed to see mechanic today evening.
+* 8:33 - **Calendar**: Added Event to see mechanic today evening.
 
 What are the benefits?
 
 Well, there is no need for a unified standard. You express your action in plain English and other devices interpret it. The user can also read them herself if she desires. Even if the devices don't understand each other, a basic translator could handle it. Imagine a certain health service unable to handle kg:
 
-**Device #1**: User weights 78 Kg.
-**Translator**: User wights 171 lbs.
+* **Device #1**: User weights 78 Kg.
+* **Translator**: User wights 171 lbs.
 
 Now the health service can understand the log of the previous device.
